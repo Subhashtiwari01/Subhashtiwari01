@@ -12,7 +12,10 @@ I am a student and a learner , currently studying at Bharati Vidyapeeth College 
 - **Web Development**
   - Java
   - SpringBoot
+  - MySql
 - **Competitive Programming**
+
+  
 ## Reach me 
 <a href="https://www.linkedin.com/in/subhash-tiwari/">
 
