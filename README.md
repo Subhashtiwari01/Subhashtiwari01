@@ -9,10 +9,12 @@ I am a student and a learner , currently studying at Bharati Vidyapeeth College 
  ## What I know :computer:
 - **Java**
 - **Data structures and Algorithms**
-- **Android Development**
-  - Android studio
-  - Firebase
+- **Web Development**
+  - Java
+  - SpringBoot
 - **Competitive Programming**
+## Reach me 
+<a href="https://www.linkedin.com/in/subhash-tiwari/">
 
 
 
