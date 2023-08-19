@@ -1,56 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Subhash Tiwari</h1>
+<h3 align="center">Passionate about coding and love to integrate different tools and technology.</h3>
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966")
 
-# Welcome to [Your Name]'s GitHub Repository
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashtiwari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="subhashtiwari-dev" /> </p>
 
-Hello there! 👋 Welcome to my GitHub repository. I'm [Your Name], a passionate backend developer with a penchant for crafting efficient and reliable solutions. With over [X] years of experience, I've successfully contributed to more than 10 projects, each showcasing my dedication to the world of backend development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhashtiwari-dev" alt="subhashtiwari-dev" /></a> </p>
 
-## About Me
+<p align="left"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?logo=twitter&style=for-the-badge" alt="your-twitter-handle" /></a> </p>
 
-I'm [Your Name], a backend developer committed to creating robust and performant applications. My journey in software engineering has equipped me with the skills to tackle complex challenges and create solutions that stand the test of time.
+- 🔭 I’m currently working on **@Your-Current-Project**
 
-## Projects
+- 🌱 I’m currently learning **Spring Boot.**
 
-Here's a sneak peek into some of the projects I've had the privilege to work on:
+- 💬 Ask me about **Backend Development, Java, APIs, Databases**
 
-1. **Project 1 Name**
-   - Description: A brief overview of the project, highlighting its purpose, technologies utilized, and key accomplishments.
-   - Repository Link: [Project 1 Repository](link-to-repo)
+- 📫 How to reach me **your-email@example.com**
 
-2. **Project 2 Name**
-   - Description: An introduction to the second project, emphasizing its impact and innovative aspects.
-   - Repository Link: [Project 2 Repository](link-to-repo)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-3. **Project 3 Name**
-   - Description: Insights into the third project, showcasing the challenges overcome and lessons learned.
-   - Repository Link: [Project 3 Repository](link-to-repo)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/your-devto-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="your-devto-username" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+<a href="https://medium.com/@your-medium-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@your-medium-handle" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/your-codechef-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="your-codechef-username" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/your-hackerrank-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank-username" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/your-leetcode-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-leetcode-username" height="30" width="40" /></a>
+</p>
 
-... (and so on for your other projects)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Technologies and Expertise
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashtiwari-dev&show_icons=true&locale=en&layout=compact" alt="subhashtiwari-dev" /></p>
 
-My expertise spans a range of technologies and tools, including:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashtiwari-dev&show_icons=true&locale=en" alt="subhashtiwari-dev" /></p>
 
-- Programming Languages: [List of programming languages you're proficient in]
-- Frameworks: [List of frameworks you're skilled with]
-- Databases: [List of databases you're experienced in]
-- Version Control: [Your version control tool preference, e.g., Git]
-- API Development
-- Microservices Architecture
-
-## Connect with Me
-
-I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Let's connect on:
-
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
-Feel free to reach out if you're interested in any of my projects, have questions, or just want to have a tech-related conversation.
-
-Thank you for visiting my GitHub repository, and I'm looking forward to engaging with the vibrant developer community!
-
-Happy coding! 🚀
-
-[Your Name]
-[Your Contact Information]
-[Date]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhashtiwari-dev&" alt="subhashtiwari-dev" /></p>
