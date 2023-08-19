@@ -6,4 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-rkv&label=Profile%20views&color=0e75b6&style=flat" alt="raj-rkv" /> </p>
 
 <p align="left"> <a href="https://github.com/Subhashtiwari01?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=raj-rkv" alt="Subhashtiwari01" /></a> </p>
+- 🔭 I’m currently working on ... Java & SpringBoot
+- 🌱 I’m currently learning ... JavaScript,React 😊
+- 👯 I’m looking to collaborate with other content creators
+- 💬 Ask me about anything in tech I bet I will answer 😂
+- ⚡ Fun fact: I love photography,and coding
+
+
 
