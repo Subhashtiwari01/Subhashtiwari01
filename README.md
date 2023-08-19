@@ -7,4 +7,3 @@
 
 <p align="left"> <a href="https://github.com/Subhashtiwari01?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=raj-rkv" alt="Subhashtiwari01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iam_raj_rkv" target="blank"><img src="https://img.shields.io/twitter/follow/iam_raj_rkv?logo=twitter&style=for-the-badge" alt="iam_raj_rkv" /></a> </p>
